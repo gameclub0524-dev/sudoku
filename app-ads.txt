@@ -1,9 +1,1 @@
-# app-ads.txt
-# Replace the example entries below with your real ad network publisher IDs.
-# Format: <ad system domain>, <publisher account id>, <DIRECT|RESELLER>, <cert authority id (optional)>
-
-# Example for Google AdMob (replace pub-0000000000000000 with your AdMob publisher ID):
-google.com, pub-0000000000000000, DIRECT, f08c47fec0942fa0
-
-# Add other authorized sellers on their own lines, for example:
-# other-ad-network.com, publisher-id, RESELLER
+google.com, pub-9830940611921187, DIRECT, f08c47fec0942fa0
